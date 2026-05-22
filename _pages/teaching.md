@@ -30,7 +30,7 @@ An introductory communication course covering fundamental theories and contexts 
 University of California, Santa Barbara 
 - COMM89: Theories of Communication (Spring 2026, Spring 2024) 
 - COMM113: Media Effects on Individuals (Fall 2025)
-- COMM160OH: Online Hate Speech (Winter 2024) 
+- COMM160OH: Perspectives on Online Hate Speech (Winter 2024) 
 - COMM1: Introduction to Communication (Fall 2023)
 
 Michigan State University	
@@ -43,7 +43,7 @@ City University of Hong Kong
 
 ## Guest Lectures
 University of California, Santa Barbara
-- COMM160OH Online Hate Speech (Winter 2024): Computational Approaches in Online Hate Research 
+- COMM160OH Perspectives on Online Hate Speech (Winter 2024): Computational Approaches in Online Hate Research 
 
 Michigan State University
 - MI220 Methods for Understanding Users (Summer 2023/2024/2025): Understanding Surveys in User Research  
