@@ -15,7 +15,7 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - Yang, Y., Lange, R., **Zhang, Y**., & Walther, J. B. (2025). How social responses to online hate messages affect hatefulness. *New Media & Society*. [DOI](https://doi.org/10.1177/14614448251396951)
 
-- **Zhang, Y**. (2026). Strategy over source: How AI disclosure shapes perceptions of counterspeech. *PsyArXiv* [DOI](https://osf.io/preprints/psyarxiv/rb8wn_v2)
+- **Zhang, Y**. (2026). Strategy over source: How AI disclosure shapes perceptions of counterspeech. *PsyArXiv*. [DOI](https://osf.io/preprints/psyarxiv/rb8wn_v2)
 
 - **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. Paper submitted to *Annals of the International Communication Association*.
 
