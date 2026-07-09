@@ -17,7 +17,7 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. Paper submitted to *Annals of the International Communication Association*.
 
-- **Zhang, Y**. (in progress). Strategy over source: How AI disclosure shapes perceptions of counterspeech.
+- **Zhang, Y**. (in progress). Strategy over source: How AI disclosure shapes perceptions of counterspeech. *PsyArXiv [DOI](https://osf.io/preprints/psyarxiv/rb8wn_v2)
 
 - **Zhang, Y**., Scott, C., & Walther, J. (in progress). Anonymity in online hate: A scoping review.
 
