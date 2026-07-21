@@ -57,7 +57,7 @@ Examines how cues and affordances in mediated contexts shape self-presentation, 
 
 - Schmälzle, R., Liu, H., Delle, F., Lewin, K., Jahn, N., **Zhang, Y.**, Yoon, H., & Long, J. (2024). Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach. *Communication Monographs*. [DOI](https://doi.org/10.1080/03637751.2023.2240398)
 
-- Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. Paper submitted to *Journal of the American Medical Informatics Association*. 
+- Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. [Paper submitted to journal for review]
 
 - Wang, M., **Zhang, Y**., & Wang, L. H. (in progress). Advancing the use of latent transition analysis (LTA) in communication scholarship: An application to map shifts in privacy protection motivation. 
 
