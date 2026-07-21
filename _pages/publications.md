@@ -17,11 +17,11 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - **Zhang, Y**. (2026). Strategy over source: How AI disclosure shapes perceptions of counterspeech. *PsyArXiv*. [DOI](https://osf.io/preprints/psyarxiv/rb8wn_v2)
 
-- **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. Paper submitted to *Annals of the International Communication Association*.
+- **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. [Paper submitted to journal for review. Paper received Top Student Paper award from Communication and Social Cognition Division of the National Communication Association (NCA2026)]
 
-- **Zhang, Y**., Scott, C., & Walther, J. (in progress). Anonymity in online hate: A scoping review.
+- Walther, J. B., Li, Z., & **Zhang, Y**. (under review). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. [Paper submitted to conference proceeding for review.]
 
-- Walther, J. B., Li, Z., & **Zhang, Y**. (in progress). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI.
+- - **Zhang, Y**. (in progress). Anonymity in online hate: A scoping review. [Extended abstract accepted at conference].
 
 - Walther, J. B., **Zhang, Y**., Garcia, E., & Rosen, Z. (in progress). Counterspeech effectiveness: A field experiment.
 
