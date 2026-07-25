@@ -7,6 +7,13 @@ author_profile: true
 
 ## Instructor of Record
 University of California, Santa Barbara
+
+- COMM89: Theories of Communication (Summer 2026)
+
+An introductory communication theory course covering the foundations, development, evaluation, and application of major theories across interpersonal, intergroup, organizational, intercultural, persuasive, and media communication. The course emphasized using theoretical perspectives to analyze communication research and everyday interactions through lectures, discussion-based application exercises, and an individual presentation connecting a communication theory to empirical research and real-life communication.
+
+[syllabus](/files/COMM89_M26_Zhang.pdf)
+
 - COMM191: Applying Communication to Internships in Organizations (Winter 2026)
 
 An upper-division internship course designed to help students connect communication theory with workplace experiences and organizational life. The course emphasized experiential learning, organizational communication, professional development, and career preparation through reflective discussion posts, e-portfolios, LinkedIn analysis, negotiation activities, and job-crafting projects. Students applied communication research and theory to analyze organizational culture, socialization, workplace diversity, and professional identity development.
