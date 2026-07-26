@@ -9,7 +9,7 @@ redirect_from:
 
 Please find my CV below (updated Jul 2026).
 
-[Open or download CV](/files/0722.pdf){:target="_blank"}
+[Open or download CV](/files/0726.pdf){:target="_blank"}
 
-<iframe src="/files/0722.pdf" width="100%" height="1000px">
+<iframe src="/files/0726.pdf" width="100%" height="1000px">
 </iframe>
