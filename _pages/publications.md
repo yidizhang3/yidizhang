@@ -17,11 +17,11 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - **Zhang, Y**. (2026). Strategy over source: How AI disclosure shapes perceptions of counterspeech. *PsyArXiv*. [DOI](https://osf.io/preprints/psyarxiv/rb8wn_v2)
 
-- **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. [Paper submitted to journal for review. 🏆 Top Student Paper award from Communication and Social Cognition Division of the National Communication Association (NCA2026)]
+- **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. [Paper invited to revise and resubmit at journal. 🏆 Top Student Paper award from Communication and Social Cognition Division of the National Communication Association (NCA2026)]
 
-- Walther, J. B., Li, Z., & **Zhang, Y**. (under review). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. [Paper submitted to conference proceeding for review]
+- Walther, J. B., Li, Z., & **Zhang, Y**. (under review). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. [Paper conditionally accepted for conference proceedings]
 
-- **Zhang, Y**. (in progress). Anonymity in online hate: A scoping review. [Extended abstract accepted at conference]
+- **Zhang, Y**. (in progress). Everywhere and nowhere: A scoping review of anonymity in online hate research. [Extended abstract accepted at conference]
 
 - Walther, J. B., **Zhang, Y**., Garcia, E., & Rosen, Z. (in progress). Counterspeech effectiveness: A field experiment.
 
@@ -57,7 +57,7 @@ Examines how cues and affordances in mediated contexts shape self-presentation, 
 
 - Schmälzle, R., Liu, H., Delle, F., Lewin, K., Jahn, N., **Zhang, Y.**, Yoon, H., & Long, J. (2024). Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach. *Communication Monographs*. [DOI](https://doi.org/10.1080/03637751.2023.2240398)
 
-- Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. [Paper submitted to journal for review]
+- Li, Z., Qin, J., Nan, Y., **Zhang, Y.**, Baum, M. A., Subramanian, S. V., & Viswanath, K. (under review). How does health misinformation shape vaccination outcomes? A meta-analysis. [Paper invited to revise and resubmit at journal]
 
 - Wang, M., **Zhang, Y**., & Wang, L. H. (in progress). Advancing the use of latent transition analysis (LTA) in communication scholarship: An application to map shifts in privacy protection motivation. 
 
