@@ -19,9 +19,9 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - **Zhang, Y**. (under review). Mapping methods in online hate research: A review, comparison, and future directions. [Paper invited to revise and resubmit at journal. 🏆 Top Student Paper award from Communication and Social Cognition Division of the National Communication Association (NCA2026)]
 
-- Walther, J. B., Li, Z., & **Zhang, Y**. (under review). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. [Paper conditionally accepted for conference proceedings]
+- Walther, J. B., Li, Z., & **Zhang, Y**. (in press). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. In _Proceedings of the 60th Hawaii International Conference on System Sciences (HICSS)_.
 
-- Walther, J. B., **Zhang, Y**., Garcia, E., Mayeda, C., & Rosen, Z. (under review). Counterspeech effectiveness: A field experiment.
+- Walther, J. B., **Zhang, Y**., Garcia, E., Mayeda, C., & Rosen, Z. (under review). Counterspeech effectiveness: A field experiment. [Paper submitted to a conference for presentation]
 
 - **Zhang, Y**. (in progress). Everywhere and nowhere: A scoping review of anonymity in online hate research. [Extended abstract accepted at conference]
 
