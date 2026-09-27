@@ -21,7 +21,7 @@ Examines how online hate emerges and spreads, and how social responses, includin
 
 - Walther, J. B., Li, Z., & **Zhang, Y**. (in press). Assessing the hatefulness of social media posts: A continuous measure of hate using generative AI. In _Proceedings of the 60th Hawaii International Conference on System Sciences (HICSS)_.
 
-- Walther, J. B., **Zhang, Y**., Garcia, E., Mayeda, C., & Rosen, Z. (under review). Counterspeech effectiveness: A field experiment. [Paper submitted to a conference for presentation]
+- Walther, J. B., **Zhang, Y**., Garcia, E., Mayeda, C., & Rosen, Z. (under review). Counterspeech effectiveness: A field experiment. [Paper submitted to a conference for presentation; paper submitted to journal for review]
 
 - **Zhang, Y**. (in progress). Everywhere and nowhere: A scoping review of anonymity in online hate research. [Extended abstract accepted at conference]
 
